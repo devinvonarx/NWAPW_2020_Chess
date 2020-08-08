@@ -4,6 +4,9 @@
 body {
   background-color: LightGray;
 }
+Zoom {
+  color: #FF0000; 
+}
 
 .jumbotron a {
   color: #111;
